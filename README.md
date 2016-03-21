@@ -1,4 +1,4 @@
-# Lambda To Pi Calculus Translator
+# Lambda to Pi Calculus Translator
 A web application that can be used to translate a lambda calculus expression into an equivalent pi calculus expression based on the following model:
 
 <p>
@@ -34,9 +34,9 @@ A web application that can be used to translate a lambda calculus expression int
 <br>The translator will accept either the lambda character 'λ' or the carat '^' interchangeably. <br>
 Abbrevated lambda format is suppoted (eg. λxyz.x y z vs λx.λy.λz.x y z). <br>
 Parentheses are supported. <br>
-Input Lambda expression MUST use dot notation.<br><br>
+Input Lambda expression MUST use dot notation.<br><
 
-<br><br>
+<br>
 Note: The output includes added spaces for improved legibility. Spaces are not specially defined in the Pi grammar.<br>
 <hr>
 <b>Translation Example: Convert (λx.x) y to Pi</b><br><br>
