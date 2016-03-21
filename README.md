@@ -1,4 +1,4 @@
-# LambdaToPiTranslator
+# Lambda To Pi Calculus Translator
 A web application that can be used to translate a lambda calculus expression into an equivalent pi calculus expression based on the following model:
 
 <p>
