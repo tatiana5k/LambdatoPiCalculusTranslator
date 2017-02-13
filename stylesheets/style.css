@@ -2,6 +2,6 @@ body {
 	padding: 8px;
 	text-align: left;
 	background-color: white;
-	color: black;
-	
+	color: red;
+	font-family: sans-serif;
 }
