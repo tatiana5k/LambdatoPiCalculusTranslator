@@ -1,7 +1,8 @@
 body {
-	padding: 6px;
+	padding: 8px;
 	text-align: left;
 	background-color: white;
 	color: black;
+	font-size: 8px;
 	font-family: Verdana, Arial, sans-serif;
 }
